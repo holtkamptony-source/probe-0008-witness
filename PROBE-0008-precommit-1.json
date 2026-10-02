@@ -1,0 +1,10 @@
+{
+ "probe": "PROBE-0008",
+ "precommitment": 1,
+ "intended_instant_america_new_york": "2026-10-04T20:00:00-04:00",
+ "intended_instant_utc": "2026-10-05T00:00:00.000Z",
+ "stated_date": "2026-10-05",
+ "seed_commitment": "2c3a3fa45e08f25891b25d5cf56fdcfc86356f57bff632d481ac0f3460b02bc0",
+ "exclusions_sha256": "20c0e089f916cb019566762d213e9d0396725c0e64ee17f2c7cd95ed11bddc5e",
+ "registration_canonical": "a35d3fe111d5fc4db90c4142370c82797157b27bf8852982f2fca46069814ab9"
+}
